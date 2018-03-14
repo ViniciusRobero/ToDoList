@@ -2,11 +2,10 @@
 Essa aplicação tem como objetivo criar uma lista de tarefas - e seus itens. Que podem ser marcados, significando sua conclusão, ou excluídos.
 
 ## Tecnologias
-Angular 5, ASP.NET WebApi utilizando o .NET Framework 4.6.1, NHibernate. Banco Microsoft SQL Server.
+Angular 5, ASP.NET WebApi utilizando o .NET Framework 4.6.1, NHibernate, Banco Microsoft SQL Server 2016.
 
 ## Configurando base de dados 
 Você pode alterar a query string de acordo com o banco de dados escolhido.
-Importante: o script abaixo é referente à edição 2016 do Microsoft SQL Server.
 
 ```xml
 <hibernate-configuration xmlns="urn:nhibernate-configuration-2.2">
