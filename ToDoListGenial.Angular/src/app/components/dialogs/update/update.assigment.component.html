@@ -1,0 +1,10 @@
+<h1 mat-dialog-title>Alterar Lista de Tarefas: {{assignmentNotBind.Discription}}</h1>
+<div mat-dialog-content>
+  <mat-form-field>
+    <input matInput [(ngModel)]="assignmentNotBind.Discription">
+  </mat-form-field>
+</div>
+<div mat-dialog-actions>
+  <button mat-button cdkFocusInitial (click)="salvar()">Salvar</button>
+  <button mat-button (click)="onNoClick()">Sair</button>
+</div>

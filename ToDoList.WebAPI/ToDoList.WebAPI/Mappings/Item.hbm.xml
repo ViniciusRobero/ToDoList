@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="ToDoList.WebAPI"
+                   namespace="ToDoList.WebAPI.Models">  
+  <class name="Item" table="Item">
+    <id name="Id" column="Id" type="long">
+      <generator class="native" />
+    </id>
+    <property name="Discription"  />
+    <property name="Status" />
+    <property name="IdAssignment" />
+  </class>
+</hibernate-mapping>

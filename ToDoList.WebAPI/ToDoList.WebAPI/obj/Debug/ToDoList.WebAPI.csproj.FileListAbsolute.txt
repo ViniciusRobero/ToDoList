@@ -1,0 +1,392 @@
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\ApplicationInsights.config
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\ToDoList.WebAPI.dll.config
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\ToDoList.WebAPI.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\ToDoList.WebAPI.pdb
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Win32.Primitives.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\netstandard.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.AppContext.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Collections.Concurrent.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Collections.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Collections.NonGeneric.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Collections.Specialized.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.ComponentModel.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.ComponentModel.Primitives.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Console.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Data.Common.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Diagnostics.Contracts.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Diagnostics.Debug.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Diagnostics.Process.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Diagnostics.StackTrace.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Diagnostics.Tools.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Diagnostics.TraceSource.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Diagnostics.Tracing.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Drawing.Primitives.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Dynamic.Runtime.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Globalization.Calendars.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Globalization.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Globalization.Extensions.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.Compression.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.Compression.ZipFile.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.FileSystem.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.IsolatedStorage.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.Pipes.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Linq.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Linq.Expressions.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Linq.Parallel.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Linq.Queryable.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.Http.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.NameResolution.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.NetworkInformation.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.Ping.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.Primitives.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.Requests.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.Security.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.Sockets.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.WebHeaderCollection.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.WebSockets.Client.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.WebSockets.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.ObjectModel.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Reflection.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Reflection.Extensions.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Reflection.Primitives.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Resources.Reader.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Resources.ResourceManager.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Resources.Writer.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.Extensions.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.Handles.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.InteropServices.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.Numerics.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.Serialization.Json.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Security.Claims.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Security.Cryptography.Csp.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Security.Principal.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Security.SecureString.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Text.Encoding.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Text.Encoding.Extensions.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Text.RegularExpressions.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Threading.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Threading.Overlapped.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Threading.Tasks.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Threading.Thread.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Threading.ThreadPool.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Threading.Timer.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.ValueTuple.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Xml.ReaderWriter.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Xml.XDocument.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Xml.XmlDocument.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Xml.XmlSerializer.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Xml.XPath.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Xml.XPath.XDocument.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Iesi.Collections.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.Options.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Owin.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\NHibernate.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Owin.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Remotion.Linq.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Remotion.Linq.EagerFetching.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Buffers.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Text.Encodings.Web.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Cors.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Http.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Razor.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\WebGrease.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Antlr3.Runtime.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Iesi.Collections.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.Options.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Owin.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Owin.Cors.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\NHibernate.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Remotion.Linq.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Remotion.Linq.EagerFetching.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Buffers.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Text.Encodings.Web.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Http.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Razor.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\obj\Debug\ToDoList.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\obj\Debug\ToDoList.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\obj\Debug\ToDoList.WebAPI.dll
+C:\Users\VINIRSR\source\repos\ToDoList.WebAPI\ToDoList.WebAPI\obj\Debug\ToDoList.WebAPI.pdb
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\ApplicationInsights.config
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\ToDoList.WebAPI.dll.config
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\ToDoList.WebAPI.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\ToDoList.WebAPI.pdb
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Win32.Primitives.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\netstandard.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.AppContext.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Collections.Concurrent.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Collections.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Collections.NonGeneric.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Collections.Specialized.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.ComponentModel.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.ComponentModel.Primitives.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Console.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Data.Common.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Diagnostics.Contracts.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Diagnostics.Debug.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Diagnostics.Process.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Diagnostics.StackTrace.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Diagnostics.Tools.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Diagnostics.TraceSource.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Diagnostics.Tracing.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Drawing.Primitives.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Dynamic.Runtime.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Globalization.Calendars.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Globalization.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Globalization.Extensions.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.Compression.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.Compression.ZipFile.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.FileSystem.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.IsolatedStorage.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.Pipes.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Linq.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Linq.Expressions.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Linq.Parallel.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Linq.Queryable.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.Http.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.NameResolution.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.NetworkInformation.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.Ping.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.Primitives.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.Requests.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.Security.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.Sockets.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.WebHeaderCollection.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.WebSockets.Client.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.WebSockets.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.ObjectModel.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Reflection.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Reflection.Extensions.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Reflection.Primitives.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Resources.Reader.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Resources.ResourceManager.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Resources.Writer.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.Extensions.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.Handles.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.InteropServices.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.Numerics.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.Serialization.Json.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Security.Claims.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Security.Cryptography.Csp.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Security.Principal.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Security.SecureString.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Text.Encoding.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Text.Encoding.Extensions.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Text.RegularExpressions.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Threading.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Threading.Overlapped.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Threading.Tasks.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Threading.Thread.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Threading.ThreadPool.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Threading.Timer.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.ValueTuple.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Xml.ReaderWriter.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Xml.XDocument.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Xml.XmlDocument.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Xml.XmlSerializer.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Xml.XPath.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Xml.XPath.XDocument.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Iesi.Collections.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.Options.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Owin.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\NHibernate.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Owin.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Remotion.Linq.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Remotion.Linq.EagerFetching.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Buffers.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Text.Encodings.Web.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Cors.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Http.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Razor.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\WebGrease.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Antlr3.Runtime.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Iesi.Collections.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.Options.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Owin.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.Owin.Cors.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\NHibernate.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Remotion.Linq.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Remotion.Linq.EagerFetching.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Buffers.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Text.Encodings.Web.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Http.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.Razor.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\obj\Debug\ToDoList.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\obj\Debug\ToDoList.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\obj\Debug\ToDoList.WebAPI.dll
+C:\Users\VINIRSR\Documents\TESTE ANGULAR\ToDoList.WebAPI\ToDoList.WebAPI\obj\Debug\ToDoList.WebAPI.pdb

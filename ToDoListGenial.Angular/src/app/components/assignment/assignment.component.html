@@ -1,0 +1,56 @@
+<form class="align-center">
+  <mat-sidenav-container class="container">
+    <mat-sidenav mode="side" opened class="sidenav">
+      <mat-toolbar color="primary">
+        Listas de Tarefas
+      </mat-toolbar>
+      <br />
+      <div>
+        <mat-form-field class="full-width">
+          <input matInput
+                 maxlength="50"
+                 [(ngModel)]="discription"
+                 name="addList"
+                 placeholder="Adicionar Lista de Tarefas">
+        </mat-form-field>
+        <button mat-button
+                matTooltip="Adicionar à lista"
+                [disabled]="discription.length == 0"
+                (click)="createAssignment()">
+          <i class="material-icons">add</i>
+        </button>
+      </div>
+      <div *ngFor="let assig of assignments; index as i; ">
+        <mat-list>
+          <mat-list-item>
+            <button mat-raised-button color="primary" class="listButton"
+                    (click)="showItems(assig);">
+              {{assig.Discription}}
+            </button>
+            <div>
+              <button mat-icon-button
+                      color="primary"
+                      matTooltip="Alterar Lista"
+                      (click)="showUpdateDialog(assig, i)"
+                      style="width:50%; float:left;">
+                <mat-icon>create</mat-icon>
+              </button>
+              <button mat-icon-button
+                      color="warn"
+                      matTooltip="Excluir Lista"
+                      (click)="showDeleteDialog(assig, i)"
+                      style="width:50%;">
+                <mat-icon>clear</mat-icon>
+              </button>
+            </div>
+          </mat-list-item>
+        </mat-list>
+
+      </div>
+    </mat-sidenav>
+    <mat-sidenav-content class="sidenav-content">
+      <app-item [items]="items" [assignment]="assignment" *ngIf="selectedAnyList"></app-item>
+    </mat-sidenav-content>
+  </mat-sidenav-container>
+
+</form>

@@ -1,0 +1,30 @@
+.container {
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+}
+
+
+.align-center {
+  text-align: center;
+}
+
+.full-width {
+  width: 50%;
+}
+
+
+.sidenav {
+  width: 30%;
+  box-shadow: 12px 0 15px -4px black, -12px 0 8px -4px black;
+}
+
+.sidenav-content {
+padding: 50px !important;
+}
+.listButton {
+width:100%;
+}
+
+
