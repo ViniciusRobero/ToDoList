@@ -1,8 +1,8 @@
 # ToDoList
-Essa aplicação tem como objetivo criar uma lista de tarefas, e seus itens. Que podem ser marcados, significando sua conclusão, ou excluídos.
+Essa aplicação tem como objetivo criar uma lista de tarefas, e seus itens. Que podem ser marcados, significando sua conclusão, ou podem ser excluídos.
 
 ## Tecnologias
-Angular 5, ASP.NET WebApi utilizando o .NET Framework 4.6 com Visual Studio 2017 Community, NHibernate 5.0, banco de dados Microsoft SQL Server 2016.
+Para esse o desenvolvimento desse sistema, foram utilizados as tecnologias Angular 5 no Front-End, ASP.NET WebApi utilizando o .NET Framework 4.6 com Visual Studio 2017 Community, NHibernate 5.0, banco de dados Microsoft SQL Server 2016.
 
 # Configurando WebAPI
 A api se encontra na pasta ToDoList.WebAPI. Para o perfeito funcionamento da mesma, as configurações abaixo devem ser efetuadas.
