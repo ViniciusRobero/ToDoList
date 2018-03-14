@@ -44,6 +44,17 @@ CREATE TABLE Item (
 	FOREIGN KEY (IdAssignment) REFERENCES Assignment(Id)
 )
 ```
+## Configurando o projeto Angular:
+Para que o front-end Angular funcione corretamente, é necessário que os pacotes locais do Node, utilizando o script abaixo no propmt de comando, no diretório \ToDoListGenial.Angular:
+```script
+	npm install 
+```
+E após isso, executar este outro comando para installar o Angular Material, que é de onde vem o design da aplicação Angular:
+
+```script
+	npm install --save @angular/material @angular/cdk
+```
+
 
 ## Configurando rota para API:
 A configuração abaixo é necessária para indicar para o Client qual o caminho da API.
