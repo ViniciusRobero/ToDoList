@@ -2,9 +2,9 @@
 Essa aplicação tem como objetivo criar uma lista de tarefas - e seus itens. Que podem ser marcados, significando sua conclusão, ou excluídos.
 
 ## Tecnologias
-Angular 5, ASP.NET WebApi utilizando o .NET Framework 4.6.1, NHibernate, Banco Microsoft SQL Server 2016.
+Angular 5, ASP.NET WebApi utilizando o .NET Framework 4.6.1 com Visual Studio 2017, NHibernate 5.0, Banco Microsoft SQL Server 2016.
 
-## Configurando base de dados 
+## Configurando base de dados: 
 Você pode alterar a query string de acordo com o banco de dados escolhido.
 
 ```xml
@@ -25,8 +25,8 @@ Você pode alterar a query string de acordo com o banco de dados escolhido.
   </session-factory>
 </hibernate-configuration>
 ```
-## Criação de objetos para o projeto:
 
+## Criação de objetos para o projeto:
 ```sql
 CREATE TABLE Assignment (
 	Discription Varchar(50),
@@ -43,4 +43,13 @@ CREATE TABLE Item (
     PRIMARY KEY (Id),
 	FOREIGN KEY (IdAssignment) REFERENCES Assignment(Id)
 )
+```
+
+## Configurando rota para API:
+A configuração abaixo é necessária para indicar para o Client qual o caminho da API.
+```javascript
+export const environment = {
+  production: false,
+  api: 'http://localhost:{SuaPorta}/api'
+};
 ```
